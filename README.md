@@ -1,5 +1,8 @@
 ### Hi there 👋. I am Andrei and I like to build things. 
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-gabriel-popescu/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/popescuaaa)
+
 All about data and Machine Learning 🤖. Highly enthusiastic & coffee lover ☕.
 
 
