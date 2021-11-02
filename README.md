@@ -8,7 +8,7 @@ Data and ML⚡️. Full stack most of the time with a passion for abstract resea
 
 - 🔭 I'm a Software Engineer based in Bucharest with 3+ years of industry experience.
 - 🌱 I’m currently developing full stack data visualisation solutions and ML pipelines and working on my Master's Thesis on Autonomous Driving.
-- 🚀 I enjoy working in fast pace, startup like environments.
+- 🚀 I enjoy working in fast paced, startup like environments.
 - 📫 How to reach me:
 
 ```
