@@ -3,11 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-gabriel-popescu/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/popescuaaa)
 
-Data and ML⚡️. Full stack most of the time with a passion for abstract research topics. Highly enthusiastic & coffee lover ☕. 
+Software Engineer @ Stealth Startup in London⚡. Full stack most of the time with a passion for abstract research topics. Highly enthusiastic & coffee lover ☕. 
 
 
-- 🔭 I'm a Software Engineer based in Bucharest with 3+ years of industry experience.
-- 🌱 I’m currently developing full stack data visualisation solutions and ML pipelines and working on my Master's Thesis on Autonomous Driving.
+- 🔭 I'm a Software Engineer based in Bucharest (most of the time) and London (the rest of the time 😋) with 3+ years of industry experience.
+- 🌱 I’m currently working with React, React Native, Python, Celery and AWS.
 - 🚀 I enjoy working in fast paced, startup like environments.
 - 📫 How to reach me:
 
