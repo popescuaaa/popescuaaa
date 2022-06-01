@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-gabriel-popescu/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/popescuaaa)
 
-Software Engineer @ Stealth Startup in London⚡. Full stack most of the time with a passion for abstract research topics. Highly enthusiastic & coffee lover ☕. 
+Data & AI Engineer @ Orange in Romania. Highly enthusiastic & coffee lover ☕. 
 
 
 - 🔭 I'm a Software Engineer based in Bucharest (most of the time) and London (the rest of the time 😋) with 3+ years of industry experience.
