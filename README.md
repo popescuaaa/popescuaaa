@@ -6,8 +6,9 @@
 Data & AI Engineer @ Orange in Romania. Highly enthusiastic & coffee lover ☕. 
 
 
-- 🔭 I'm a Software Engineer based in Bucharest (most of the time) and London (the rest of the time 😋) with 3+ years of industry experience.
-- 🌱 I’m currently working with React, React Native, Python, Celery and AWS.
+- 🔭 I'm a Software Engineer based in Bucharest with 3+ years of industry experience.
+- 🌱 I’m currently working with Python & GCP on a Data Engineering project @ Orange Romania.
+- ✨ I'm leading a Research Reading Group @ Orange Romania with focus on the newest ML papers and technologies.
 - 🚀 I enjoy working in fast paced, startup like environments.
 - 📫 How to reach me:
 
