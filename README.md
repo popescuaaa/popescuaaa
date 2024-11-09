@@ -1,29 +1,31 @@
-### Hi there 👋. I am Andrei and I like to build things. 
+### Hello, World! 👋 I'm Andrei, and I create high-impact solutions that drive results.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-gabriel-popescu/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-gabriel-popescu/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/popescuaaa)
 
-Data Scientist @ Orange Services in Romania. Highly enthusiastic & coffee lover ☕. 
+- 🔭 **Data Scientist** | **5+ years of high-performance problem-solving** in research and real-world applications.
+- 🌱 **Currently Building** cutting-edge ASR and NLP solutions @ Orange Services Romania.
+- 🚀 **Thrives in Fast-Paced Environments** where innovation and agility come first.
 
+- 📫 **Contact**:
 
-- 🔭 I'm a Software Engineer based in Bucharest with 4+ years of industry experience.
-- 🌱 I’m currently working on ASR solutions and NLP related problems @ Orange Services Romania [part of orange].
-- ✨ I'm leading a Research Reading Group @ Orange Romania with focus on the newest ML papers and technologies.
-- 🚀 I enjoy working in fast paced, startup like environments.
-- 📫 How to reach me:
-
-```
+```bash
 email: andreigabrielpopescu556@gmail.com
-twitter: @popescuaaa
 ```
+
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+<summary><b>⚡ GitHub Stats</b></summary>
 
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=popescuaaa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=popescuaaa&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+<br />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=popescuaaa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=popescuaaa&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details> 
+
+---
+
+Passionate about building, scaling, and optimizing—let's create something groundbreaking.
+
 
 
 
